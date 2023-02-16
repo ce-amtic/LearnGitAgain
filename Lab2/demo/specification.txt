@@ -1,0 +1,6 @@
+* input format
+	1.two float number a, b
+	2.-1000 <= a,b <= 1000
+
+* timelimit
+	1s
